@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/greatest-common-divisor-of-strings
 
-package solutions.LeetCode_75.Greatest_Common_Divisor_of_Strings;
+package solutions.LeetCode_75.Array_String.Greatest_Common_Divisor_of_Strings;
 
 class Solution {
   public String gcdOfStrings(String str1, String str2) {

@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/reverse-words-in-a-string
 
-package solutions.LeetCode_75.Reverse_Words_in_a_String;
+package solutions.LeetCode_75.Array_String.Reverse_Words_in_a_String;
 
 class Solution {
   public String reverseWords(String s) {

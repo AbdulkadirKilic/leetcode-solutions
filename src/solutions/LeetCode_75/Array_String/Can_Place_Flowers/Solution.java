@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/can-place-flowers
 
-package solutions.LeetCode_75.Can_Place_Flowers;
+package solutions.LeetCode_75.Array_String.Can_Place_Flowers;
 
 class Solution {
   public boolean canPlaceFlowers(int[] flowerbed, int n) {

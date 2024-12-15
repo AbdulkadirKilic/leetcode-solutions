@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/increasing-triplet-subsequence
 
-package solutions.LeetCode_75.Increasing_Triplet_Subsequence;
+package solutions.LeetCode_75.Array_String.Increasing_Triplet_Subsequence;
 
 class Solution {
   public boolean increasingTriplet(int[] nums) {

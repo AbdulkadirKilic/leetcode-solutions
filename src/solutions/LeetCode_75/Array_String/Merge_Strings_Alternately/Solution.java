@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/merge-strings-alternately
 
-package solutions.LeetCode_75.Merge_Strings_Alternately;
+package solutions.LeetCode_75.Array_String.Merge_Strings_Alternately;
 
 class Solution {
   public String mergeAlternately(String word1, String word2) {

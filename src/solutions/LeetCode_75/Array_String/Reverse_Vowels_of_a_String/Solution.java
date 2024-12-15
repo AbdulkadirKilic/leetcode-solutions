@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/reverse-vowels-of-a-string
 
-package solutions.LeetCode_75.Reverse_Vowels_of_a_String;
+package solutions.LeetCode_75.Array_String.Reverse_Vowels_of_a_String;
 
 class Solution {
   public String reverseVowels(String s) {

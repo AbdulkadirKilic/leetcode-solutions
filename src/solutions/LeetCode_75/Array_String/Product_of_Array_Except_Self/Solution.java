@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/product-of-array-except-self
 
-package solutions.LeetCode_75.Product_of_Array_Except_Self;
+package solutions.LeetCode_75.Array_String.Product_of_Array_Except_Self;
 
 class Solution {
   public int[] productExceptSelf(int[] nums) {

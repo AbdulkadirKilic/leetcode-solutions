@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/greatest-common-divisor-of-strings
 
-package solutions.LeetCode_75.Kids_With_the_Greatest_of_Candies;
+package solutions.LeetCode_75.Array_String.Kids_With_the_Greatest_of_Candies;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/string-compression
 
-package solutions.LeetCode_75.String_Compression;
+package solutions.LeetCode_75.Array_String.String_Compression;
 
 class Solution {
   public int compress(char[] chars) {
