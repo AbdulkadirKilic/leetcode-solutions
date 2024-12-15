@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/is-subsequence
 
-package solutions.LeetCode_75.Is_Subsequence;
+package solutions.LeetCode_75.Two_Pointers.Is_Subsequence;
 
 class Solution {
   public boolean isSubsequence(String s, String t) {

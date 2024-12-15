@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/container-with-most-water
 
-package solutions.LeetCode_75.Container_With_Most_Water;
+package solutions.LeetCode_75.Two_Pointers.Container_With_Most_Water;
 
 class Solution {
   public int maxArea(int[] height) {

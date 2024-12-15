@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/max-number-of-k-sum-pairs
 
-package solutions.LeetCode_75.Max_Number_of_K_Sum_Pairs;
+package solutions.LeetCode_75.Two_Pointers.Max_Number_of_K_Sum_Pairs;
 
 import java.util.HashMap;
 import java.util.Map;

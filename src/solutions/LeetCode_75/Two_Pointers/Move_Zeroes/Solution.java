@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/move-zeroes
 
-package solutions.LeetCode_75.Move_Zeroes;
+package solutions.LeetCode_75.Two_Pointers.Move_Zeroes;
 
 class Solution {
   public void moveZeroes(int[] nums) {
