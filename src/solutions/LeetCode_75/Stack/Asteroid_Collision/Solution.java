@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/asteroid-collision
 
-package solutions.LeetCode_75.Asteroid_Collision;
+package solutions.LeetCode_75.Stack.Asteroid_Collision;
 
 import java.util.Stack;
 

@@ -1,6 +1,6 @@
 // LeetCode Question: https://leetcode.com/problems/decode-string
 
-package solutions.LeetCode_75.Decode_String;
+package solutions.LeetCode_75.Stack.Decode_String;
 
 import java.util.Stack;
 
